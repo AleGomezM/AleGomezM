@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ma. Alejandra Gómez Medina</h1>
+<h1 align="center">Hi 👋, I'm Ma. Alejandra Gómez </h1>
 <h3 align="center">A passionate Data scientist from CO 
 <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f4.svg" width="25"/>
  </h3>
