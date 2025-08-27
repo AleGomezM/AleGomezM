@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ma. Alejandra Gómez Medina</h1>
-<h3 align="center">A passionate Data scientist from Colombia &#127464;&#127470; </h3>
+<h3 align="center">A passionate Data scientist from CO 
+<img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f4.svg" width="25"/>
+ </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
