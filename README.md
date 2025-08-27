@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ma. Alejandra Gómez Medina</h1>
-<h3 align="center">A passionate Data scientist from Colombia</h3>
+<h3 align="center">A passionate Data scientist from Colombia &#127464;&#127470; </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,9 +14,6 @@ Improving my credit risk prediction project using Machine Learning techniques an
 
 👯 I’m looking to collaborate on:
 Projects involving data analysis, predictive modeling, and AI applications.
-
-🤔 I’m looking for help with:
-Building data pipelines in the cloud (AWS, GCP, Azure) and deploying ML models in production.
 
 💬 Ask me about:
 Python, Pandas, Scikit-learn, Machine Learning, EDA, and how to turn data into business insights.
